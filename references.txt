@@ -1,0 +1,6 @@
+https://github.com/aws-samples/aws-dynamodb-examples
+https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
+https://www.dynamodbguide.com/the-dynamo-paper/
+https://sookocheff.com/post/databases/dynamo/
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.html
+

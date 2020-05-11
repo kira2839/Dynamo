@@ -1,0 +1,6 @@
+#Internal package file, do not edit.
+0.baseType=DIRECTORY
+0.base=/home/goutham/Documents/SimpleDynamo/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1
